@@ -220,6 +220,7 @@
 			files = (
 				6A6B45391A7F002400484D66 /* ViewController.swift in Sources */,
 				6A6B45341A7F002400484D66 /* AppDelegate.swift in Sources */,
+				C8A13A0F1A7F00BB0001B07A /* ViewControllerYi.swift in Sources */,
 				6A6B45371A7F002400484D66 /* test1.xcdatamodeld in Sources */,
 				6A6B45571A7F00B900484D66 /* ViewControllerZhang.swift in Sources */,
 			);
