@@ -2,7 +2,7 @@
 //  test1Tests.swift
 //  test1Tests
 //
-//  Created by haoran zhang on 2/1/15.
+//  Created by haoran zhang on 2/2/15.
 //  Copyright (c) 2015 haoran zhang. All rights reserved.
 //
 
